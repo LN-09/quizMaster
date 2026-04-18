@@ -174,9 +174,12 @@ quizmaster/
 
 ## 📹 Video Demo
 
-_[Link video demo]_
+<img width="1912" height="970" alt="image" src="https://github.com/user-attachments/assets/45bd1877-c572-47c6-8007-e170f1ccba2d" />
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/3281d568-826a-4ff2-80cb-698f4b0d7336" />
+
+<img width="1913" height="912" alt="image" src="https://github.com/user-attachments/assets/fc6715e2-5d43-4c86-8cdc-ff23838aec15" />
 
 ## 🔗 GitHub Repository
 
-_[Link GitHub repository]_
+_[[Link GitHub repository](https://github.com/LN-09/quizMaster)]_
 # quizMaster
